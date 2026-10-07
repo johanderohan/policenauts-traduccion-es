@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/playstation/policenauts)**.
+
 Traducción al **español de España** de *Policenauts* para PlayStation japonesa
 (Konami, 1996): los **dos discos de la aventura** y el disco de extras
 **Private Collection**. Voces japonesas originales con subtítulos en castellano.
